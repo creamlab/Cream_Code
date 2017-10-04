@@ -19,14 +19,14 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 	4 blocks of 36 trials
 
 ## Folders you need to have
-----
+
 - /images : images use during the experimentation
 - /stimuli : audio presented to the participant. 
 - /results : will contain .csv files of a subject's results
 - /trail_lists : .csv files containing the trials file for each subject[^2]
 
 ## Inputs
-----
+
 #### Texts (in french)
 - intro.txt : instructions
 - practice.txt : announcement of practice trials
@@ -54,7 +54,7 @@ Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_i
 ![Trial File](https://github.com/creamlab/...TrialFile.png)
 
 ## Outputs
-----
+
 #### Results
 .csv files containing the trials files content and the subject's answers
 
