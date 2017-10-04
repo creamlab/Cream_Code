@@ -5,7 +5,7 @@ laura.rachman@ircam.fr
 
 # 
 
-In this experience, the subject listens to 2 voices and has to determine whether or not these two were pronounced by the same speaker. In order to do so, he has to answer the following question '' with two different answers 'yes' or 'no'.
+In this experience, the subject listens to 2 voices and has to determine whether or not these two were pronounced by the same speaker. In order to do so, he has to answer the question 'Are these two words produce by the same speaker?' or 'Did you heard your own voice?' with two different answers 'yes' or 'no'.
 
 The experiment is divided in 2 parts. In the first, we ask if the voices come from the same speaker (implicit task). In the 2nd, we tell the participant he's one of the speakers and ask now if he's hearing his own voice (explicit task).
 
