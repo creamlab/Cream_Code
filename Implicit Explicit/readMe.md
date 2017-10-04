@@ -28,7 +28,7 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 
 ## Inputs
 
-#### Texts (in french)
+### Texts (in french)
 - intro.txt : instructions
 - practice.txt : announcement of practice trials
 - end_practice.txt : announcement of the end of practice and beginning of the experiment
@@ -38,14 +38,14 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 
 
 
-#### Stimuli
+### Stimuli
 Audio presented to the subject.
 
 Format : s**SpeakerNumber**\_w**WordNumber**\_**Emotion**.wav (i.e. *s901\_w15\_h.wav* for speaker n°1, word n°15, happy emotion) 
 
 Except for the practice files where emotion is written in full : *neutral*
 
-#### Trials files
+### Trials files
 Files containing the order of stimuli presentation for each subject.
 
 Produced by a randomisation code [1](https://github.com/creamlab/...)
@@ -56,13 +56,13 @@ Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_i
 
 ## Outputs
 
-#### Results
+### Results
 .csv files containing the trials files content and the subject's answers
 
 Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_explicit\_subj01\_171004\_14.12.csv* for subject n°1 doing the explicit task the 4th October 2017 at 2.12 pm)
 
 ![Results File](https://github.com/creamlab/...Results.png)
-#### Log files
+### Log files
 . log files are produce and collect all the actions produced during the experience
 
 Format : sub**SubjectNumber**.log
