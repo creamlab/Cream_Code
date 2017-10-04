@@ -1,0 +1,7 @@
+Vous allez entendre des paires de mots. Nous vous demandons d’indiquer si vous avez entendu votre propre voix. Répondez “oui” si vous avez entendu votre propre voix au moins une fois pendant la présentation des deux mots. Répondez “non” si vous avez entendu deux fois la voix d’une autre personne.
+ 
+
+L'expérience se fait entièrement à la souris : cliquez sur l'un des deux boutons pour indiquer votre jugement.
+
+
+(Appuyez sur une touche pour continuer)
