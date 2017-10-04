@@ -1,0 +1,8 @@
+Vous allez entendre des paires de mots. Nous vous demandons de juger si les deux mots ont été produits par le même locuteur ou par deux locuteurs différents. Répondez “oui” si vous avez entendu deux fois le même locuteur. Répondez “non” si vous avez entendu deux locuteurs différents.
+
+
+L'expérience se fait entièrement à la souris : cliquez sur l'un des deux boutons pour indiquer votre jugement.
+
+
+(Appuyez sur une touche pour continuer)
+
