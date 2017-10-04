@@ -8,10 +8,10 @@ Each folder contains one experimentation with everything necessary to launch and
 
 If needed, you can contact us to ask for our stimuli.
 
-##License
+## License
 ----
 
-##Codes authors
+## Codes authors
 ----
 Jean-Julien Aucouturier
 
