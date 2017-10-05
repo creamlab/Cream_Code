@@ -50,7 +50,7 @@ Files containing the order of stimuli presentation for each subject.
 
 Produced by a randomisation code [1](https://github.com/creamlab/...)
 
-Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_implicit\_subj01\_171003\_15.43.csv* for the implicit task of subject n°1, created the 3rd October 2017 at 3.43 pm)
+Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_implicit\_subj01\_171003\_154302.csv* for the implicit task of subject n°1, created the 3rd October 2017 at 3 hours 43 minutes and 2 seconds pm)
 
 ![Trial File](https://github.com/creamlab/Cream_Code/blob/master/Images/TrialFile.png)
 
