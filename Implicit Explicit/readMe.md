@@ -5,7 +5,7 @@ laura.rachman@ircam.fr
 
 # 
 
-In this experience, the subject listens to 2 voices and has to determine whether or not these two were pronounced by the same speaker. In order to do so, he has to answer the question 'Are these two words produced by the same speaker?' or 'Did you heard your own voice?' with two different answers 'yes' or 'no'.
+In this experiment, the subject listens to 2 voices and has to determine whether or not these two were pronounced by the same speaker. In order to do so, he has to answer the question 'Are these two words produced by the same speaker?' or 'Did you heard your own voice?' with two different answers 'yes' or 'no'.
 
 The experiment is divided in 2 parts. In the first, we ask if the voices come from the same speaker (implicit task). In the 2nd, we tell the participant he's one of the speakers and ask now if he's hearing his own voice (explicit task).
 
@@ -21,7 +21,7 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 
 ## Folders you need to have
 
-- /images : images use during the experimentation
+- /images : images use during the experiment
 - /stimuli : audio presented to the participant. 
 - /results : will contain .csv files of a subject's results
 - /trail\_lists : .csv files containing the trials file for each subject [1](https://github.com/creamlab/...)
@@ -31,10 +31,10 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 ### Texts (in french)
 - intro.txt : instructions
 - practice.txt : announcement of practice trials
-- end_practice.txt : announcement of the end of practice and beginning of the experiment
+- end\_practice.txt : announcement of the end of practice and beginning of the experiment
 - pause.txt : enf of the block
 - outro.txt : end of the task and move on the next one
-- outro_end.txt : end of the experiment
+- outro\_end.txt : end of the experiment
 
 
 
@@ -63,7 +63,7 @@ Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_e
 
 ![Results File](https://github.com/creamlab/Cream_Code/blob/master/Images/Results.png)
 ### Log files
-. log files are produce and collect all the actions produced during the experience
+. log files are produce and collect all the actions produced during the experiment
 
 Format : sub**SubjectNumber**.log
 
