@@ -10,7 +10,7 @@ In this experiment, the subject listens to 2 voices and has to determine whether
 The experiment is divided in 2 parts. In the first, we ask if the voices come from the same speaker (implicit task). In the 2nd, we tell the participant he's one of the speakers and ask now if he's hearing his own voice (explicit task).
 
 
-[By forking this folder](https://github.com/creamlab/Cream_Code/tree/master/Implicit%20Explicit/Experience#fork-destination-box) you'll be able to launch the experiment for a female subject n°1 until the end of the practice session. To continue, you must add your own stimuli or contact us to have ours.
+[By downloading this folder](https://github.com/creamlab/Cream_Code/tree/master/Implicit%20Explicit/Experience#fork-destination-box) you'll be able to launch the experiment for a female subject n°1 until the end of the practice session. To continue, you must add your own stimuli or contact us to have ours.
 
 **With this code, you can make:**
 
@@ -24,7 +24,7 @@ The experiment is divided in 2 parts. In the first, we ask if the voices come fr
 - /images : images use during the experiment
 - /stimuli : audio presented to the participant. 
 - /results : will contain .csv files of a subject's results
-- /trail\_lists : .csv files containing the trials file for each subject [1](https://github.com/creamlab/...)
+- /trail\_lists : .csv files containing the trial file for each subject [1](https://github.com/creamlab/...)
 
 ## Inputs
 
@@ -45,7 +45,7 @@ Format : s**SpeakerNumber**\_w**WordNumber**\_**Emotion**.wav (i.e. *s901\_w15\_
 
 Except for the practice files where emotion is written in full : *neutral*
 
-### Trials files
+### Trial files
 Files containing the order of stimuli presentation for each subject.
 
 Produced by a randomisation code [1](https://github.com/creamlab/...)
@@ -57,7 +57,7 @@ Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_i
 ## Outputs
 
 ### Results
-.csv files containing the trials files content and the subject's answers
+.csv files containing the trial files content and the subject's answers
 
 Format : id\_**testID**\_s**SubjectNumber**\_**Date**\_**Hour**.csv (i.e. *id\_explicit\_subj01\_171004\_14.12.csv* for subject n°1 doing the explicit task the 4th October 2017 at 2.12 pm)
 
