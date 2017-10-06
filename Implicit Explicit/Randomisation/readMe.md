@@ -14,7 +14,7 @@ This code randomizes the trials such as:
 
 This script creates two lists for each subject: one for the implicit task and another for the explicit task (see [Implicit Explicit experimentation](https://github.com/creamlab/Cream_Code/tree/master/Implicit%20Explicit)).
 
-[By forking this folder](https://github.com/creamlab/...), you'll be able to create files of randomized trials for 21 different subjects, male or female. You do not need any stimulus to run the code. 
+[By downloading this folder](https://github.com/creamlab/...), you'll be able to create files of randomized trials for 21 different subjects, male or female. You do not need any stimulus to run the code. 
 
 
 ## Folder you need to have
