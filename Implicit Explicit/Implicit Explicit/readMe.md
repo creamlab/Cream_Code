@@ -10,7 +10,7 @@ In this experiment, the subject listens to 2 voices and has to determine whether
 The experiment is divided in 2 parts. In the first, we ask if the voices come from the same speaker (implicit task). In the 2nd, we tell the participant he's one of the speakers and ask now if he's hearing his own voice (explicit task).
 
 
-[By forking this folder](https://github.com/creamlab/Cream_Code/tree/master/Implicit%20Explicit/Experience#fork-destination-box) you'll be able to launch the experiment for a female subject n°1 until the end of the practice session. To continue, you must add your own stimuli or contact us to have ours.
+[By downloading this folder](https://github.com/creamlab/Cream_Code/tree/master/Implicit%20Explicit/Experience#fork-destination-box) you'll be able to launch the experiment for a female subject n°1 until the end of the practice session. To continue, you must add your own stimuli or contact us to have ours.
 
 **With this code, you can make:**
 
