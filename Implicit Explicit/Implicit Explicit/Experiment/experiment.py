@@ -21,8 +21,8 @@ from psychopy import prefs
 prefs.general['audioLib'] = ['pygame']
 from psychopy import visual,event,core,sound,logging,gui
 
-#-------------------------------------------------------------------
 
+#---------------------------------------------------------------
 #    Function to get list of relevant files in trial_file folder
 #    i.e. not taking into account files that start with '.'
 
@@ -45,7 +45,10 @@ soundPath = os.path.join(DIR, 'stimuli/')
 ####################################
 
 
-#    Function to read the trialFile that has been made for the subject and returns pairs of audio files for each trial
+
+#    Function to read the trialFile that has been made for the subject 
+#    and returns pairs of audio files for each trial
+
 
 def getTrials(subjNr, testID, outfile, trialFilePath):
     ppnr = format(subjNr,'02')
@@ -69,6 +72,9 @@ def getTrials(subjNr, testID, outfile, trialFilePath):
 
     return stimList,trialList
 
+
+
+#-------------------------------------------
 #    Function to show texts for instructions
 #    between blocks
 #    and at the end of the experiment
@@ -88,7 +94,10 @@ def showText(fileName):
         core.wait(0.2)
 
 
+
+#----------------------------------------
 #    Function to draw all objects at once
+
 def drawStartTrial():
     attention.draw()
     core.wait(0.5)
