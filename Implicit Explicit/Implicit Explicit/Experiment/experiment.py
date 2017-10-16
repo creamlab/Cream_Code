@@ -45,8 +45,10 @@ soundPath = os.path.join(DIR, 'stimuli/')
 ####################################
 
 
+
 #    Function to read the trialFile that has been made for the subject 
 #    and returns pairs of audio files for each trial
+
 
 def getTrials(subjNr, testID, outfile, trialFilePath):
     ppnr = format(subjNr,'02')
@@ -71,6 +73,7 @@ def getTrials(subjNr, testID, outfile, trialFilePath):
     return stimList,trialList
 
 
+
 #-------------------------------------------
 #    Function to show texts for instructions
 #    between blocks
@@ -89,6 +92,7 @@ def showText(fileName):
         if len(event.getKeys()) > 0 : break
         event.clearEvents()
         core.wait(0.2)
+
 
 
 #----------------------------------------
