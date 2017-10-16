@@ -1,0 +1,9 @@
+Il existe aujourd'hui des programmes informatiques capables de changer le son de la voix d'une personne, de façon à la faire paraître, par ex., plus ou moins joyeuse, plus ou moins jeune ou agée, ou même pour lui donner la voix de quelqu'un d'autre. Parfois ces manipulations sont très réalistes... et d'autres fois, pas tellement.
+
+Dans cette expérience, vous allez entendre une série de phrases enregistrées par différentes personnes. Chacune de ces phrases est soit l’expression réelle et naturelle du locuteur, soit le résultat d’une manipulation faite par ordinateur. Votre tâche est d’évaluer dans quelle mesure ces phrases sont naturelles ou bien artificielles.
+
+Si un enregistrement vous semble très naturel (c’est à dire qu'il semble avoir été produit par une personne réelle), déplacez le curseur dans la direction du slider qui correspond à ce jugement (“very natural / not at all artificial”). Si, au contraire, la phrase vous semble très artificielle (c’est à dire qu'elle semble résulter d'une manipulation de l’ordinateur), déplacez le curseur de l’autre côté du slider (“not at all natural / very artificial”).
+
+L'expérience se fait entièrement à la souris : cliquez sur les sons pour les jouer (autant de fois que nécessaire), cliquez sur le slider pour indiquer votre jugement puis validez votre choix pour passer à la phrase suivante.
+
+(Appuyez sur une touche pour continuer)
