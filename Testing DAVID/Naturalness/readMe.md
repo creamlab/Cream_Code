@@ -14,7 +14,7 @@ In order to do so, the participant can judge the control and the affiliation of 
 
 **With this code, you can make:**
 
-	A randomization file of the trials for each subject
+	A randomisation file of the trials for each subject
 	Audio stimuli presentation listenable as many times as the subject wants
 	Simple continuous rating scale for 1 to 100
 	1 block of 75 trials with a pause at the middle of the experiment
@@ -24,7 +24,7 @@ In order to do so, the participant can judge the control and the affiliation of 
 - /images : images use during the experiment
 - /sounds : audio presented to the participant. 
 - /results : will contain one .csv file with each subject's results.
-- /trial\_files : will contain one .csv file for each subject. Each file is the list of randomized trials for the experiment.
+- /trial\_files : will contain one .csv file for each subject. Each file is the list of randomised trials for the experiment.
 
 ## Inputs
 
