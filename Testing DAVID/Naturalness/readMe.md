@@ -9,7 +9,7 @@ In this experiment, the subject listens to a sound, as many times as he wants, a
 
 In order to do so, the participant can judge the control and the affiliation of the left player on the right player. This is done after each duet he heard, on 2 different scales.
 
-[By downloading this folder](https://github.com/creamlab/Cream_Code/archive/master.zip) you'll be able to launch the experiment until the end of the pactice trials. To continue, you must add your own stimuli or contact us to have ours (See Stimuli section for the syntax needed).
+[By downloading this folder](https://github.com/creamlab/Cream_Code/archive/master.zip) you'll be able to launch the experiment until the end of the pactice trials. To continue, you must add your own stimuli (See _Stimuli_ section for the syntax needed) or freely download ours on [archive.org](https://archive.org/details/DAVIDAudioFiles).
 
 
 **With this code, you can make:**
@@ -31,7 +31,7 @@ In order to do so, the participant can judge the control and the affiliation of 
 ### Texts (in french)
 - intro.txt : instructions given at the beginning of the experiment
 - practice.txt : announcement of the 3 practice trials
-- start_test.txt : beginning of the experiment
+- start\_test.txt : beginning of the experiment
 - pause.txt : annoncement of the pause
 - outro.txt : end of the experiment
 
