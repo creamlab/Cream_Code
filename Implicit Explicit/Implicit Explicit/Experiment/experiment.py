@@ -133,34 +133,8 @@ label2 = visual.TextStim(win, units='norm', text='B', color='black', height=3*la
 instruction1 = visual.TextStim(win, units='norm', text='Les deux mots, sont-ils produits par le m'+u'\u00EA'.encode('utf-8')+'me locuteur?', color='black', height=labelSize, pos=(0,0.1), alignHoriz='center')
 instruction2 = visual.TextStim(win, units='norm', text='Avez-vous entendu votre propre voix ?', color='black', height=labelSize, pos=(0,0.1), alignHoriz='center')
 
-square1 = visual.ShapeStim(win
-                            , fillColor = None
-                            , lineColor = None
-                            , opacity = 1
-                            , units = 'norm'
-                            , vertices=[ (-0.6, 0.5-3*labelSize)
-                                       , (-0.6, 0.5-1*labelSize)
-                                       , (-0.4, 0.5-1*labelSize)
-                                       , (-0.4, 0.5-3*labelSize)
-                                        ]
-                            )
-                     
-square2 = visual.ShapeStim(win
-                            , fillColor = None
-                            , lineColor = None
-                            , opacity = 1
-                            , units = 'norm'
-                            , vertices=[ (0.4, 0.5-3*labelSize)
-                                       , (0.4, 0.5-1*labelSize)
-                                       , (0.6, 0.5-1*labelSize)
-                                       , (0.6, 0.5-3*labelSize)
-                                        ]
-                            )
-
 attention = visual.TextStim(win, units='norm', text='+', color='gray', height=3*labelSize, pos=(0,0), alignHoriz='center')
 
-
-fixation = visual.TextStim(win, units='norm', text='+', color='black', height=1.5*labelSize, pos=(0,0.1), alignHoriz='center')
 
 ####################################
 #           Rating scale           #
